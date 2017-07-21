@@ -1,6 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
-templates/
+idea/workspace.xml
+workspace.xml
+
 *.pyc
 *~
 __pycache__
