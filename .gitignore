@@ -2,6 +2,7 @@
 .gitignore
 idea/workspace.xml
 workspace.xml
+.idea
 
 *.pyc
 *~
